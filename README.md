@@ -1,4 +1,4 @@
-# 🤖Naga-Bot🤖
+# 🤖 RIZKI RIDHO PRATAMA🤖
 BOT WHATSAPP TERMUX ONLY BY Naga-Bot
 
 ### Alat dan Bahan
@@ -70,9 +70,9 @@ Ket: Aktiv 24 jam
 Jika ada kendala hubungi kami..
 
 ## Note
-BOT INI KHUSUS HP/TERMUX DOANG YAH,JIKA MAU RE-UPLOAD CANTUMKAN NAMA SAYA (NFQ SQUAD)
+BOT INI KHUSUS HP/TERMUX DOANG YAH,JIKA MAU RE-UPLOAD CANTUMKAN NAMA SAYA (26. Rizki Ridho Pratama)
 
 ## Sosial Media Admin
-* [`Youtube Admin`](https://www.youtube.com/channel/UC0KCrPNyL-E7NZIp2l3mZLQ) 
-* [`Instagram Admin`](https://instagram.com/fws_grup)
-* [`WhatsApp Admin `](https://wa.me/6281357302007)
+* [`Youtube Admin`](https://youtube.com/c/26RizkiRidhoPratama) 
+* [`Instagram Admin`](https://instagram.com/rizki_ridho636)
+* [`WhatsApp Admin `](https://wa.me/6287840411119)
